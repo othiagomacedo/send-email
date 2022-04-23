@@ -1,4 +1,8 @@
-<h1>Envio de Email Automático usando Python</h1>
+<div>
+  <h1>Envio de Email Automático usando Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="30" heigth="30"> </h1> 
+</div>
+
+
 <h3>Fase: desenvolvimento</h3>
 <p>Ainda em fase de aperfeiçoamento, porém com a finalidade principal já funcionando que é enviar o email em si para um email de sua preferencia</p>
 <p>Estou usando um e-mail Gmail, onde foi pra mim, mais fácil de configurar</p>
