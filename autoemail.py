@@ -12,8 +12,8 @@ import os
 
 hoster = 'smtp.gmail.com'
 porta = 587
-user = 'machinesdotcom@gmail.com'
-senha = 'moctodsenihcam@2022'
+user = #ENDERECO DE EMAIL AQUI
+senha = #INSIRA A SENHA DO SEU EMAIL
 
 ######  DEFININDO O ENVIO DO EMAIL ######
 def DefinirEmail() :

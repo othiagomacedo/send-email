@@ -12,8 +12,6 @@
 <h3>Próximas Implementações:</h3>
 <ol>
   <li>Criar uma interface gráfica para melhor controle do usuário</li>
-  <li>Perguntar ao usuário qual horário que ele deve enviar o e-mail</li>
-  <li>Solicitar também o corpo do email, quais informações ele gostaria de inserir no texto</li>
   <li>Habilitar para enviar imagens ou anexos no email</li>  
 </ol>
 <h3>Se quiser fazer parte do projeto...</h3>
